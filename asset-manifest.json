@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sabah/static/css/main.4af720a0.chunk.css",
+    "main.js": "/sabah/static/js/main.9a9a3aa0.chunk.js",
+    "main.js.map": "/sabah/static/js/main.9a9a3aa0.chunk.js.map",
+    "runtime-main.js": "/sabah/static/js/runtime-main.b740182f.js",
+    "runtime-main.js.map": "/sabah/static/js/runtime-main.b740182f.js.map",
+    "static/css/2.150d169a.chunk.css": "/sabah/static/css/2.150d169a.chunk.css",
+    "static/js/2.8c894d87.chunk.js": "/sabah/static/js/2.8c894d87.chunk.js",
+    "static/js/2.8c894d87.chunk.js.map": "/sabah/static/js/2.8c894d87.chunk.js.map",
+    "static/js/3.686a4a28.chunk.js": "/sabah/static/js/3.686a4a28.chunk.js",
+    "static/js/3.686a4a28.chunk.js.map": "/sabah/static/js/3.686a4a28.chunk.js.map",
+    "index.html": "/sabah/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/sabah/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.4af720a0.chunk.css.map": "/sabah/static/css/main.4af720a0.chunk.css.map",
+    "static/js/2.8c894d87.chunk.js.LICENSE.txt": "/sabah/static/js/2.8c894d87.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b740182f.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.8c894d87.chunk.js",
+    "static/css/main.4af720a0.chunk.css",
+    "static/js/main.9a9a3aa0.chunk.js"
+  ]
+}
